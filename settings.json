@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DemonHeartSMP.aternos.me:46687",
+    "ip": DemonHeartSMP.aternos.me:46687
     "port": 46687,
     "version": "",
     "try-creative": false
